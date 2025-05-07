@@ -5,3 +5,6 @@ Just testing the difftool
 ## Purpose
 
 ## How to contribute
+
+### Copyright
+Miller's Git training
